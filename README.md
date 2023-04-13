@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Layssa Matos 👋
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Laravel
+- 🔭 Hoje trabalho com Front-end
+- 🌱 Estudando Flutter
 - 💬 Contate-me: layssamatos85@gmail.com
 - 😄 Pronouns: Ela/Dela
 
